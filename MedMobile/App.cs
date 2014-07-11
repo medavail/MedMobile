@@ -31,7 +31,7 @@ namespace MedMobile
 				Font = Font.SystemFontOfSize(NamedSize.Large),
 				VerticalOptions = LayoutOptions.Start
 			};
-			//
+
 			Button button = new Button
 			{
 				Text = "Get Started Now",
